@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Ferdaous Wahid</h1>
-<h3 align="center">A passionate Software Engineer from Bangladesh</h3>
+<h3 align="center">A passionate Computer Science Engineer from Bangladesh</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ferdaous-wahid&label=Profile%20views&color=0e75b6&style=flat" alt="ferdaous-wahid" /> </p>
 
