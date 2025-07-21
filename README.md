@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ferdaous-wahid&label=Profile%20views&color=0e75b6&style=flat" alt="ferdaous-wahid" /> </p>
 
-- I am currently learning **SQL, PLSQL, Oracle Application Express**
+- I am currently learning **React, JavaScript, TypeScript, NextJs, SQL, PLSQL, Oracle Application Express**
 
 - 📫 How to reach me **ferdaouswahid2001@gmail.com**
 
